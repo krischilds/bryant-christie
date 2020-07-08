@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bryant-christie/static/css/main.6371fc9f.chunk.css",
+    "main.js": "/bryant-christie/static/js/main.d1d62133.chunk.js",
+    "main.js.map": "/bryant-christie/static/js/main.d1d62133.chunk.js.map",
+    "runtime-main.js": "/bryant-christie/static/js/runtime-main.337506eb.js",
+    "runtime-main.js.map": "/bryant-christie/static/js/runtime-main.337506eb.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/bryant-christie/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.a21dcdf2.chunk.js": "/bryant-christie/static/js/2.a21dcdf2.chunk.js",
+    "static/js/2.a21dcdf2.chunk.js.map": "/bryant-christie/static/js/2.a21dcdf2.chunk.js.map",
+    "index.html": "/bryant-christie/index.html",
+    "precache-manifest.6e2f3218f6f6d1ed42aa67442bb0ffd8.js": "/bryant-christie/precache-manifest.6e2f3218f6f6d1ed42aa67442bb0ffd8.js",
+    "service-worker.js": "/bryant-christie/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/bryant-christie/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.6371fc9f.chunk.css.map": "/bryant-christie/static/css/main.6371fc9f.chunk.css.map",
+    "static/js/2.a21dcdf2.chunk.js.LICENSE.txt": "/bryant-christie/static/js/2.a21dcdf2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.337506eb.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.a21dcdf2.chunk.js",
+    "static/css/main.6371fc9f.chunk.css",
+    "static/js/main.d1d62133.chunk.js"
+  ]
+}
